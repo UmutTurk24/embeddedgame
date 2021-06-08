@@ -1,3 +1,7 @@
+body{
+    background-image: linear-gradient( rgb(81, 16, 11), rgb(75, 75, 75), rgb(167, 164, 164));
+}
+
 h1.title{
     text-align: center;
     color: rgb(77, 24, 24);
@@ -9,4 +13,17 @@ h1.title{
 
 div.gamebox{
     margin: auto;
+    
+}
+
+.leftpic{
+    height: 504px;
+}
+
+.description{
+    font-size: 20px;
+    border: 5px solid rgba(241, 121, 66, 0.651);
+    padding: 20px;
+    width: 655px;
+    margin-left: 410px;
 }
